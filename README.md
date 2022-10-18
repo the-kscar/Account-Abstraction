@@ -5,7 +5,8 @@ Account abstraction is the premise that all accounts or wallets in a blockchain 
 ## Introduction 
 
 ### Resources
-| Title | Summary | Link | 
+| Title | Summary | Link |
+| ------- | ------- | ------ | 
 Random Thoughts on Account Abstraction | A high level overview of account abstraction and associated benefits with use cases | [Link] (https://hackmd.io/@s0lness/BJUb16Yo9#Account-Abstraction-a-primer)
 
 ### Videos
